@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZncXVzYmkwbjI1aWI2ejF0N2lyOHdlZXM1aGU2N2lxYm92ODJjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="40" alt="typing">
   Hi, I'm Guille! 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="25" height="25">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg"  style="filter: invert(1);" width="25" height="25">
 </h1>
 
 
