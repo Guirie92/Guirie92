@@ -88,11 +88,11 @@
 <div align="center">
 
   <div style="display:inline-block; margin:5px; vertical-align: middle;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guirie92&layout=compact&theme=default" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guirie92&layout=compact&theme=dark" alt="Top Languages">
   </div>
 
   <div style="display:inline-block; margin:5px; vertical-align: middle;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Guirie92&show_icons=true&theme=default" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Guirie92&show_icons=true&theme=dark" alt="GitHub Stats">
   </div>
 
 </div>
