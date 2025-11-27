@@ -18,8 +18,16 @@
 	<p style="margin: 0;">Currently working on front web development</p>
 	<p style="margin: 0;">Currently studying at <a href="https://www.42madrid.com/">42 Madrid</a></p>
 	<p style="margin: 0;">Passionate about programming, software and game dev</p>
-	<p style="margin: 0;">See more at my <a href="https://www.guillesanchez.com/">portfolio</a></p>
 </div>
+
+<div align="center" style="padding:40px 0 0">
+  <a href="https://www.guillesanchez.com/">
+    <img src="https://readme-typing-svg.demolab.com?lines=See+more+at+my+portfolio&center=true&size=24&duration=2250&color=1E90FF" style="display:block; margin:0 auto;" width="500">
+  </a>
+</div>
+
+
+
 <div align="center" style="padding:20px 0 2px">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-green?logo=globe)](https://www.guillesanchez.com/)
