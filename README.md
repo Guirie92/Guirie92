@@ -101,6 +101,6 @@
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/Email-hello%40guillesanchez.com-blue?style=flat-square&logo=gmail)](mailto:guillekm92@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email-guillekm92%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:guillekm92@gmail.com)
 
 </div>
