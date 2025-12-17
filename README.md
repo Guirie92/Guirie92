@@ -17,7 +17,7 @@
 		</ul> -->
 	<p style="margin: 0;">Currently working on front web development</p>
 	<p style="margin: 0;">studying at <a href="https://www.42madrid.com/">42 Madrid</a></p>
-	<p style="margin: 0;">I specially like low level programming (C++, C)</p>
+	<p style="margin: 0;">I have a strong interest in low-level programming, such as C++ and C</p>
 	<p style="margin: 0;">Passionate about software and game dev</p>
 </div>
 
