@@ -16,8 +16,9 @@
 			<li>See more at my <a href="https://www.guillesanchez.com/">portfolio</a></li>
 		</ul> -->
 	<p style="margin: 0;">Currently working on front web development</p>
-	<p style="margin: 0;">Currently studying at <a href="https://www.42madrid.com/">42 Madrid</a></p>
-	<p style="margin: 0;">Passionate about programming, software and game dev</p>
+	<p style="margin: 0;">studying at <a href="https://www.42madrid.com/">42 Madrid</a></p>
+	<p style="margin: 0;">I specially like low level programming (C++, C)</p>
+	<p style="margin: 0;">Passionate about software and game dev</p>
 </div>
 
 <div align="center" style="padding:40px 0 0">
