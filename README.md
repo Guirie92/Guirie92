@@ -86,7 +86,7 @@
         <tr>
           <td valign="middle"align="center"><a href="https://github.com/Guirie92/fract-ol">Fract-ol</a></td>
            <td valign="middle"align="center">
-		  	<img src="https://camo.githubusercontent.com/630a1405353c18f82c5e1ce8e97f7239d7d657f297c67e54a6f554eeaaf8e073/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f3130302d326561343466" alt="Fractol Score" style="display:block;">
+		  	<img src="https://camo.githubusercontent.com/95b520dd5350a5ba1062031c2f1997e381a9aa59270a4be87b8abd5877be7919/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f3132352d326561343466" alt="Fractol Score" style="display:block;">
 		  </td>
         </tr>
       </table>
