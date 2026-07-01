@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZncXVzYmkwbjI1aWI2ejF0N2lyOHdlZXM1aGU2N2lxYm92ODJjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="40" alt="typing"> -->
-		<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg"  style="filter: invert(1);" width="25" height="25">
+  <!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg"  style="filter: invert(1);" width="25" height="25"> -->
   Hi, I'm Guille! 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg"  style="filter: invert(1);" width="25" height="25">
+  <!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg"  style="filter: invert(1);" width="25" height="25"> -->
 </h1>
 
 
@@ -88,6 +88,13 @@
           <td valign="middle"align="center"><a href="https://github.com/Guirie92/fract-ol">Fract-ol</a></td>
            <td valign="middle"align="center">
 		  	<img src="https://camo.githubusercontent.com/95b520dd5350a5ba1062031c2f1997e381a9aa59270a4be87b8abd5877be7919/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f3132352d326561343466" alt="Fractol Score" style="display:block;">
+		  </td>
+        </tr>
+		<tr>
+          <td valign="middle"align="center"><a href="https://github.com/Guirie92/minishell">Minishell</a></td>
+           <td valign="middle"align="center">
+		  	<img src="https://camo.githubusercontent.com/630a1405353c18f82c5e1ce8e97f7239d7d657f297c67e54a6f554eeaaf8e073/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f3130302d326561343466" alt="Minishell Score" style="display:block;">
+		  </td>
 		  </td>
         </tr>
       </table>
